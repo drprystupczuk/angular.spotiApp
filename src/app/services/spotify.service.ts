@@ -10,14 +10,12 @@ export class SpotifyService {
 
   constructor(private http: HttpClient){ }
 
-  getQuery(query:string,token:string){
-    if(localStorage.getItem('token')){
+  getQuery(query:string, token:string){
       const url = `https://api.spotify.com/v1/${query}`;
       let headers = new HttpHeaders({
           'Authorization': token
       });
       return this.http.get(url, {headers});
-    }
   }
 
   getToken(){
