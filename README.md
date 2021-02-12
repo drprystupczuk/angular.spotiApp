@@ -5,6 +5,7 @@ _Angular application using Spotify API developed in this [Udemy Course](https://
 
 ### About me ✒️
 Diego Prystupczuk - Fullstack developer
+- [Linkedin](https://www.linkedin.com/in/diegoprystupczuk/)
 - [Github](https://github.com/drprystupczuk)
 - [Youtube](https://www.youtube.com/channel/UCSeVAET6K1b8HLVULdzluXg)
 - [Twitter](https://twitter.com/DPrystupczuk)
