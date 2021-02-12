@@ -1,7 +1,6 @@
 # [EN] SpotiApp :guitar:
 
-
-### Description: :rocket:
+### Description :rocket:
 _Angular application using Spotify API developed in this [Udemy Course](https://www.udemy.com/course/angular-2-fernando-herrera/). Deployed with Github Pages. [Click here to see](https://drprystupczuk.github.io/angular.spotiApp/#/search)._
 
 ### About me ✒️
